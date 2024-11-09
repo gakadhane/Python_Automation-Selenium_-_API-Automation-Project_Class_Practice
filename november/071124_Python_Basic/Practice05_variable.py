@@ -16,5 +16,5 @@ print(type(percentage))
 print(type(boolen))
 print(type(name))
 
-age = "Pramod"
+age = "gaurav"
 print(type(age))
