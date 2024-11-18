@@ -15,7 +15,6 @@ if num1 >= num2:
 else:
     print("Max is ", num2)
 
-
-# Edge Cases - num1 == num2 ->  Handled.
-# String -> ABC, ten -> try and except - We will learn this in future.
-# -ve Value -> We will learn this in future.
+# Edge Cases -> num1 == num2 ->  Handled.
+# String -> ABC, ten -> try and except.
+# -ve Value -> .

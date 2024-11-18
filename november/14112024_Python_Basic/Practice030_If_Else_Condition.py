@@ -1,6 +1,5 @@
 # Write a program to take a user age and
 # let him know if he can go the club.
-# 21
 
 # Logic Building Formula
 
@@ -21,13 +20,11 @@ if age >= 21:
 else:
     print("Can't go with this age")
 
-
 # Step 4.  Check for the edge cases.
 # We should consider edge cases such as:
 # Negative ages or extremely high values -> program will break.
 # Non-numeric input - ABC
 # Age which is valid. > 130
-
 
 
 # Step 5.  Optimize the code.
