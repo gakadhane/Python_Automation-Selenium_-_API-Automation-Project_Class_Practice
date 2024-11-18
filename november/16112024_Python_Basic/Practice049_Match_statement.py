@@ -21,5 +21,5 @@ match browser_name:
         print("Execute the Edge Code")
     case "safari":
         print("Execute the Safari Code")
-    case _: # default
+    case _:  # default
         print("Browser Not Found!")

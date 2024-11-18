@@ -9,4 +9,4 @@ for number in range(10):  # number - 0 to 9, times 10
 # | 1  | 1%2 == 0 -> False | 1
 
 
-# pass - can be used in the statement, fucntions, classes and objects.
+# pass - can be used in the statement, functions, classes and objects.

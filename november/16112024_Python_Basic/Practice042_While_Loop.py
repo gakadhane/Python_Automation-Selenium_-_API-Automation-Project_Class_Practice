@@ -1,8 +1,7 @@
-# i = 0
-# while i < 10:
-#     print(i)
-#     i = i + 1
-
+i = 0
+while i < 10:
+    print(i)
+    i = i + 1
 
 # i = 0 , 0 < 10 , O/p -> 0
 # i = 1 , 1 < 10 , O/p -> 1
@@ -14,7 +13,6 @@ i = 0
 while i < 5:
     print(i)
     i = i + 1
-
 
 # i = 0 , 0 < 5 -> 0
 # i = 1 , 1 < 5 -> 1
