@@ -8,10 +8,14 @@
 side1 = float(input("Enter the side1\n"))
 side2 = float(input("Enter the side2\n"))
 side3 = float(input("Enter the side3\n"))
-45
-if side1 == side2 and side1 == side3 and side2 == side3:
-    print("triange is", "equilateral")
-elif side1 == side2 and side2 != side3 and side3 != side1:
-    print("trianle is", "isosceles")
+
+if a > 0 and b > 0 and c > 0:
+
+    if side1 == side2 and side1 == side3 and side2 == side3:
+        print("triange is", "equilateral")
+    elif side1 == side2 and side2 != side3 and side3 != side1:
+        print("trianle is", "isosceles")
+    else:
+        print("triangle is", "scalane")
 else:
-    print("triangle is", "scalane")
+    print("Length is not valid")
