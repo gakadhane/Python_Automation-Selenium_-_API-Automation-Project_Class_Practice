@@ -32,3 +32,15 @@ def test():
 
 
 test()
+
+def text2():
+    print("test")
+
+text2()
+
+
+text2()
+
+text2()
+
+test()

@@ -14,4 +14,10 @@ def greet():
 
 
 # Part 3
-greet()
+def test(name):
+    print("3rd", name)
+    print(f"3rd, {name}")
+    greet()
+
+test("gaurav")
+test("123")
