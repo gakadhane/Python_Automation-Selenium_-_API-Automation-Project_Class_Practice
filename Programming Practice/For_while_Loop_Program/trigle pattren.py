@@ -1,9 +1,9 @@
 def star_Trangle(num):
     for i in range(num):
         for j in range(num - i - 1):
-            print("  ", end="")
+            print(" ", end="")
         for k in range(2 * i + 1):
-            print("*", end=" ")
+            print("*", end="")
         print()
 
 
