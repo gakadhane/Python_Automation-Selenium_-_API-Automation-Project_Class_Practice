@@ -19,5 +19,3 @@ T = int(input("Enter the time period :"))
 R = int(input("Enter the rate of interest :"))
 
 simple_interest(P, T, R)
-
-
