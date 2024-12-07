@@ -1,6 +1,5 @@
-
 def compound_intrest(principal, rate, time):
-    amount = principal * ((1 + rate/100)**time)
+    amount = principal * ((1 + rate / 100) ** time)
     CI = amount - principal
     print("Compound interest is", CI)
 

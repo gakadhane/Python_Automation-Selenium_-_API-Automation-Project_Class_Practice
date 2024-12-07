@@ -1,7 +1,7 @@
 # Function for nth Fibonacci number
 
 def Fibonacci(n):
-    if n<= 0:
+    if n <= 0:
         print("Incorrect input")
     # First Fibonacci number is 0
     elif n == 1:
@@ -10,7 +10,8 @@ def Fibonacci(n):
     elif n == 2:
         return 1
     else:
-        return Fibonacci(n-1)+Fibonacci(n-2)
+        return Fibonacci(n - 1) + Fibonacci(n - 2)
+
 
 # Driver Program
 

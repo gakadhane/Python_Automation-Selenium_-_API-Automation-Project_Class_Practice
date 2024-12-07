@@ -5,5 +5,6 @@ def sumofseries(n):
 
     return sum
 
+
 n = 5
 print(sumofseries(n))
