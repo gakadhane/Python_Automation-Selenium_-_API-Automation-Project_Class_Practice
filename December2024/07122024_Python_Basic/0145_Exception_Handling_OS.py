@@ -3,7 +3,7 @@ import os
 try:
     full_path = os.getcwd()
     print(full_path)
-    full_path_file = full_path + "/example.txt"
+    full_path_file = full_path + "/TestData.txt"
     print(full_path_file)
 
     # Read the file
