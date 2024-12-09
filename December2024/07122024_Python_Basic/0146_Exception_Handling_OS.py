@@ -7,7 +7,7 @@ class XYZ:
         else:
             print(a)
         finally:
-            print("FINALLY : Anyhow I will be printed")
+            print("FINALLY : Anyhow this will be printed")
 
 
 
