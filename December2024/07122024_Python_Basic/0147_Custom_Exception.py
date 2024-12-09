@@ -1,4 +1,4 @@
-# Custom Exp.
+# Custom Exp. = create own exception
 
 class LowBalanceExceptionCustom(Exception):
     def __init__(self, message):

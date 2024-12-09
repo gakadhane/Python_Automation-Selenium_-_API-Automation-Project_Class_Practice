@@ -1,4 +1,4 @@
-# CSV - comma sep file
+# CSV - comma separated file
 
 import csv
 

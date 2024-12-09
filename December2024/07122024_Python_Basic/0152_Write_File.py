@@ -1,2 +1,4 @@
-with open("Amit.txt",'a') as file:
-    file.write("hello")
+# How to write a file
+
+with open("Gaurav.txt",'a') as file:    #a = Append the data in file
+    file.write(" hello")
